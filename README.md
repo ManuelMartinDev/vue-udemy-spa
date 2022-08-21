@@ -1,19 +1,11 @@
 # myapp
 
-## Project setup
+## Descarga el proyecto, y desde una terminal en dicha carpeta ejecuta
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Ahora puedes iniciarla con 
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
